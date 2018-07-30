@@ -1,3 +1,3 @@
 def spin_faster
-  puts "Spinning faster"
+  puts "Spinning"
 end
